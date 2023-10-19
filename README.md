@@ -1,8 +1,10 @@
+# SQL Travel Dataset - Analysis
+
 I got the dataset from kaggle. The dataset is used for the datathon 2019 competition. This dataset about real corporate travel systems focusing on flights and hotels.
+
 [Travel Dataset - Datathon 2019](https://www.kaggle.com/datasets/leomauro/argodatathon2019)
 
 In this case, I wanna try to analyse that dataset using mysql. 
-
 Here are a few questions for analysis.
 
 Case study questions 
